@@ -1,0 +1,4 @@
+Code : 01 Name : Sirinthorn           Beautiful            Age : 25
+Code : 02 Name : Patorn               GradeA               Age : 19
+Code : 03 Name : GradeA               Sure                 Age : 30
+Total of customer = 3

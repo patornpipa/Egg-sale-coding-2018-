@@ -1,0 +1,11 @@
+Code : 02 Name : Patorn GradeA Age : 19
+-----------------Your order---------------
+Eggs number 0 : 300 x 3.00 = 900.00 bath
+Eggs number 1 : 300 x 2.90 = 870.00 bath
+Eggs number 2 : 300 x 2.80 = 840.00 bath
+Eggs number 3 : 300 x 2.70 = 810.00 bath
+Eggs number 4 : 300 x 2.60 = 780.00 bath
+Eggs number 5 : 300 x 2.50 = 750.00 bath
+Eggs number 6 : 300 x 2.40 = 720.00 bath
+----------------------------
+Total price : 5670.00 bath
